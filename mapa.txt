@@ -1,0 +1,16 @@
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── IconGrid.jsx
+│   ├── EmergencyButton.jsx
+│   ├── MapView.jsx
+│   ├── MigraMovilTracker.jsx
+│   └── ChildrenSection.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Services.jsx
+│   ├── Procedures.jsx
+│   └── Community.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
