@@ -84,6 +84,20 @@ const Normativa = ({ language }) => {
       descripcion: 'Derecho al refugio y a los refugiados.',
       url: 'https://www.impo.com.uy/bases/leyes/18076-2006',
       fecha: '2006'
+    },
+    {
+      id: 5,
+      titulo: 'Decreto 138/024',
+      descripcion: 'Creacion del Programa de Residencias por Arraigo',
+      url: 'https://www.impo.com.uy/bases/decretos/138-2024',
+      fecha: '2024'
+    },
+    {
+      id: 6,
+      titulo: 'Decreto 45/023',
+      descripcion: 'Reglamentacion del Art. 33 de la Ley 18.250',
+      url: 'https://www.impo.com.uy/bases/decretos/45-2023',
+      fecha: '2023'
     }
   ];
 

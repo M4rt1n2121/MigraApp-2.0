@@ -7,12 +7,12 @@ const Oficinas = ({ language }) => {
   const oficinasData = [
     { 
       nombre: 'Oficina Central', 
-      direccion: 'Av. Libertador 1234, Montevideo',
+      direccion: 'Misiones 1513 entre Piedras y Cerrito, Montevideo',
       telefono: '+598 1234 5678'
     },
     { 
-      nombre: 'Inspectoría Este', 
-      direccion: 'Av. Italia 567, Montevideo',
+      nombre: 'Oficida de Residencias', 
+      direccion: 'Mercedes 1004, Montevideo',
       telefono: '+598 1234 5679'
     }
   ];
